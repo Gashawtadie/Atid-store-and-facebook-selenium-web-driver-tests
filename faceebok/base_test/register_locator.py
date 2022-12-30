@@ -1,0 +1,23 @@
+
+home_page_fb = "https://www.facebook.com/login/"
+sign_up_locator =  "//a[contains(text(),'Sign up for Facebook')]"
+name_field_locator = "firstname"
+sure_name_locator = "lastname"
+email_phone_locator = "reg_email__"
+confrirmation_email_locator = "reg_email_confirmation__"
+insert_password_locator = "//input[@id='password_step_input']"
+select_date_locat = "//select[@id='day']"
+month_selector = "birthday_month"
+year_selector = "birthday_year"
+gender_selector = "//label[contains(text(),'Male')]"
+button_selector = "button"
+wrong_email_select = "div"
+error_message_password = "h2"
+error_message_code = "//input[@id='code_in_cliff']"
+send_email_selector = "//a[contains(text(),'Send Email Again')]"
+error_handling_locator = "https://m.facebook.com/login/?li=hxT4VrfSuaNNUjFqpzj4N2qC&e=1348029&locale2=en_GB&refsrc=https%3A%2F"\
+               "%2Fm.facebook.com%2Flogin%2F"
+signup_error_handling = "//a[@id='signup-button']"
+email_already_use = "//a[contains(text(),'Already have an account?')]"
+test_already_newaccount = "//a[contains(text(),'Sign up for Facebook')]"
+
